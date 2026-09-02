@@ -318,7 +318,7 @@ sorting-algorithms/
 └── README.md
 ```
 
-## 📞 Support
+## 📞 Support 
 
 - 📚 [Full Documentation](./docs/)
 - 💬 [Discussions](https://github.com/Jokacar10/sorting-algorithms/discussions)
